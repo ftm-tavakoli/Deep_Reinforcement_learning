@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning Project: Double Deep Q-Network (DDQN) with Learnable Value Estimation
 
-This repository contains a deep reinforcement learning project focusing on implementing the Double Deep Q-Network (DDQN) algorithm with a learnable value estimation component. 
+This repository contains a deep reinforcement learning project focusing on implementing the Dueling Deep Q-Network (DDQN) algorithm with a learnable value estimation component. 
 
 ## Overview
 
